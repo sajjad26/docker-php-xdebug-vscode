@@ -1,9 +1,7 @@
 <?php
 
 $a = 'Test';
+$b = 1;
 
-// xdebug_info();
-
-$a = 1;
-
-echo phpinfo();
+echo $a . '<br />';
+echo $b . '<br />';
